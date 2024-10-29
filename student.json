@@ -1,0 +1,124 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "John",
+      "location": "india",
+      "phone": "1234567890",
+      "courses": [
+        "Java",
+        "Selenium"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Smith",
+      "location": "Canada",
+      "phone": "165498765",
+      "courses": [
+        "C#",
+        "RestAPI"
+      ]
+    },
+    {
+      "name": "Kumari",
+      "location": "India",
+      "phone": "0987654321",
+      "courses": [
+        "Python",
+        "Appium"
+      ],
+      "id": "4"
+    },
+    {
+      "id": "4",
+      "name": "Siva",
+      "location": "India",
+      "phone": "9876543210",
+      "courses": [
+        "Manual",
+        "API"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Siva",
+      "location": "India",
+      "phone": "9876543210",
+      "courses": [
+        "Manual",
+        "API"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Siva",
+      "location": "India",
+      "phone": "9876543210",
+      "courses": [
+        "Manual",
+        "API"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Siva",
+      "location": "India",
+      "phone": "9876543210",
+      "courses": [
+        "Manual",
+        "API"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Siva",
+      "location": "India",
+      "phone": "9876543210",
+      "courses": [
+        "Manual",
+        "API"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Siva",
+      "location": "India",
+      "phone": "9876543210",
+      "courses": [
+        "Manual",
+        "API"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Siva",
+      "location": "India",
+      "phone": "9876543210",
+      "courses": [
+        "Manual",
+        "API"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Siva",
+      "location": "India",
+      "phone": "9876543210",
+      "courses": [
+        "Manual",
+        "API"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Siva",
+      "location": "India",
+      "phone": "9876543210",
+      "courses": [
+        "Manual",
+        "API"
+      ]
+    }
+  ]
+}
